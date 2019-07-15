@@ -1,0 +1,10 @@
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\bin\Debug\netstandard2.0\OouiTestXamlApp.deps.json
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\bin\Debug\netstandard2.0\OouiTestXamlApp.dll
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.csprojAssemblyReference.cache
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.AssemblyInfoInputs.cache
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.AssemblyInfo.cs
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\bin\Debug\netstandard2.0\OouiTestXamlApp.pdb
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.dll
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.pdb
+C:\Users\Muhammad Shahrukh\Desktop\OouiTestXamlApp\obj\Debug\netstandard2.0\OouiTestXamlApp.Page1.xaml.g.cs
